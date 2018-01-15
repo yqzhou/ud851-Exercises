@@ -34,7 +34,7 @@ public final class ToyBox {
                 "Sock Monkey",
                 "Microscope Set",
                 "Beach Ball",
-                "BB Gun",
+                "R2D2",
                 "Green Soldiers",
                 "Bubbles",
                 "Spring Toy",
